@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.puredata.android-pd-core-1.0.2_fa0d14da38195a48b1c820121e2dcab2a481a806/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.1.0_4ed29228166e32e153725ef62e59d2b0c5507f5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.noisepages.nettoyeur-midi-1.0.0-rc1_5cbd8acb7306bbcd983ff6c2b2ca66b313120477/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_bbc29b48cfe7a244be126a73659c2513027e309c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/org.puredata.android/pd-core/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79334435f653b507dd64f120572d49d9620bbf49">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.puredata.android-pd-core-1.0.2_ad8a60f28a4b778ad29cb4d664848c93db2f1e3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_fb7b33f8a2df2c59ae5630d9dad666c68b7b8b26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_217217da1014b3669deb2d566eb64ecbda3fd743/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_adbd95645a64af9f4e51090aae0e56d99ee68565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_25f7122a163d94ec902a07f104fd4ea9f6ddb35a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_9818fc50902c256e57f106ccd5eb5d2591b65710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_bf0f1cd1dbafed42c96bb933ba622262af40afad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0367e9f6e8f7d400f8d7d64d37aa8f40b533b397">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a6bc58fec5b302d888d73117b83088166f62fc92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_20072b0e7da042565a476ddf754ecb321ab6732d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_daab4c33ba960dfd890e79369a96fb38f04ebf8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_f7d6743ce909babf0a3e51ff0c8e0bf9742f960c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_e99c3e52de4258d456b253312094aa204dc81d74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68c400344d84d20b84cb7a94bfcaa632f9659494">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8419e04de68a02cb810171556f70253d4ae7d100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_6057405e4386ef96d67a8d9eeeb14654f461a34d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed28a98874443b34e820ebdab370721459cf2f94">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5b3a06dfb9aeaba8df41cd19cb2c51ded1ae9174/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_d0764c2ca8b434ae8c0731dcc801f1c5335d83f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c83fbde55c05bc186002d7ce3570d619c3d6ee1f">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.1.0_a9c92b814cb70ec414457292a95da89a6c43df10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_9bebee9c0803caf356c09584208425a7dbd40931/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_3827376293033aec7bc483ff8661bda4990d6af7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_1b117b3fce30587a3d89372248a16a5b82f1b5bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/com.noisepages.nettoyeur/midi/1.0.0-rc1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a35b73ff5c4ab6af57b21c03b9b3aa234d816a7f">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.noisepages.nettoyeur-midi-1.0.0-rc1_3516a797a6dd5136711853875f20c0b355a92c3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_ba8263b167210a15f023c50d53eba0ffd09a6d62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_7b59eedaef85a6362605803642c47eed7eea1008/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_77e312e1a6ebf8963f26bae9a4fb756bc9856937/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c083b3a0821e9920e14e7c25093b0a4c2308bca">
+        <dex dex="/Users/student/Downloads/Lab-04_SAM_working-master-SLIDER-EDIT-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1f418fb6fb946bf325205126c3e2241546e334ce/classes.dex" />
+    </item>
+
+</items>
